@@ -2,6 +2,20 @@ Day 1 = (11 jan) => {
     Login page frontend.
 }
 
+Disclaimer : I have added my mongodb atlas key in the .env file. Please dont mess with that......(and also dont misuse that)..,,,,
+
+NOTE :- I have commented the mongodb atlas url because data fetching is taking a lot of time I dont know why, so I have added the url for mongodb compass,,,,. Please review this project only on the system having mongodb compass installed..... Your mongodb will not be having any data so to check the full project you have to first add items by going to sell tab.
+
+
+    █████╗  ████████╗ ██╗  ██╗
+   ██╔══██╗ ╚══██╔══╝ ██║ ██╔╝
+   ███████║    ██║    █████╔╝
+   ██╔══██║    ██║    ██╔═██╗ 
+   ██║  ██║    ██║    ██║  ██╗
+   ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝
+
+
+
 
 Steps to open the project
 
