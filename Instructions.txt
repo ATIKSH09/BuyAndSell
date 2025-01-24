@@ -1,6 +1,4 @@
-Day 1 = (11 jan) => {
-    Login page frontend.
-}
+
 
 Disclaimer : I have added my mongodb atlas key in the .env file. Please dont mess with that......(and also dont misuse that)..,,,,
 

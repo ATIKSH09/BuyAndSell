@@ -205,7 +205,7 @@ function Home() {
                   {filteredProducts.map((product) => (
                     <div
                       key={product._id}
-                      className="p-6 rounded-2xl cursor-pointer shadow-md bg-gradient-to-br from-white to-gray-50 border border-gray-200 text-center hover:shadow-2xl h-76 hover:scale-105 transition-transform duration-300"
+                      className="p-6 rounded-2xl max-h-80 cursor-pointer shadow-md bg-gradient-to-br from-white to-gray-50 border border-gray-200 text-center hover:shadow-2xl h-76 hover:scale-105 transition-transform duration-300"
                       onClick={() => navigate(`/product/${product._id}`)}
                     >
                       <img
